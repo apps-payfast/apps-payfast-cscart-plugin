@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>apps_payfast</id>
+    <version>1.0</version>
+    <priority>3000</priority>
+    <position>0</position>
+    <status>active</status>
+    <supplier>Avanza Premier Payment Services</supplier>
+    <supplier_link>http://www.apps.net.pk</supplier_link>
+    <default_language>en</default_language>
+    <authors>
+        <author>
+            <name>APPS PayFast Ecommerce Team</name>
+            <email>info@apps.net.pk</email>
+            <url>http://www.apps.net.pk</url>            
+        </author>
+    </authors>    
+    <queries>        
+        <item for="install">insert into `?:payment_processors` (`processor`, `processor_script`, `processor_template`, `admin_template`, `callback`, `type`, `addon`) values('PayFast','apps_checkout.php','','apps_admin_tmpl.tpl','N','P','apps')</item>        
+        <item for="uninstall">DELETE FROM `?:payment_processors` WHERE processor = "PayFast" AND addon="apps"</item>        
+    </queries>
+</addon>

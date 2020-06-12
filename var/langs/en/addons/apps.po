@@ -1,0 +1,59 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::apps"
+msgid "APPS Payment Gateway"
+msgstr "APPS Payment Gateway"
+
+msgctxt "Addons::description::apps"
+msgid "Let's you accept payments via Debit/Credit Card via Avanza Premier Payment Services payment gateway."
+msgstr "Let's you accept payments via Debit/Credit Card via Avanza Premier Payment Services payment gateway."
+
+msgctxt "Languages::addons.apps_rdv_message_key"
+msgid "RDV Message Key"
+msgstr "RDV Message Key"
+
+msgctxt "Languages::addons.apps_status_code"
+msgid "Status Code"
+msgstr "Status Code"
+
+msgctxt "Languages::addons.apps_failure_reason"
+msgid "Failure Reason"
+msgstr "Failure Reason"
+
+msgctxt "Languages::addons.apps_merchant_key"
+msgid "Merchant Secured Key"
+msgstr "Merchant Secured Key"
+
+msgctxt "Languages::addons.apps_merchant_id"
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+msgctxt "Languages::addons.apps_merchant_name"
+msgid "Merchant Name"
+msgstr "Merchant Name"
+
+msgctxt "Languages::addons.apps_config_header"
+msgid "Merchant Configurations"
+msgstr "Merchant Configurations"
+
+msgctxt "Languages::addons.apps_connect_failed"
+msgid "Unable to connect APPS Payment Gateway. Please contact your merchant"
+msgstr "Unable to connect APPS Payment Gateway. Please contact your merchant"
+
+msgctxt "Languages::addons.apps_payment_failed_head"
+msgid "Payment Failed"
+msgstr "Payment Failed"
+
+
+msgctxt "Languages::addons.apps_contacting_message"
+msgid "APPS Payfast Payment Gateway"
+msgstr "<div style=' position:fixed;    top: 50%;    left: 50%;    width:30em;    height:18em;    margin-top: -9em; /*set to a negative number 1/2 of your height*/    margin-left: -10em; /*set to a negative number 1/2 of your width*/        background-color: #ffffff;'>
+<img width="50%" height="40%"  src='http://apps.net.pk/wp-content/uploads/2018/07/payfast.png'>
+</div><br><div style=' position:fixed;    top: 50%;    left: 50%;    width:30em;    height:18em;    margin-top: 0em; /*set to a negative number 1/2 of your height*/    margin-left: -9em; /*set to a negative number 1/2 of your width*/        background-color: #ffffff;'>
+<img  src='https://apps.net.pk/web_nov_2019/wp-content/uploads/2019/11/Payfast-logo-png.png'>
+</div>"
+
