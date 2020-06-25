@@ -5,8 +5,8 @@ msgstr "Project-Id-Version: tygh\n"
 "Language: en_US"
 
 msgctxt "Addons::name::apps"
-msgid "APPS Payment Gateway"
-msgstr "APPS Payment Gateway"
+msgid "APPS Payment Gateway - Sandbox"
+msgstr "APPS Payment Gateway - Sandbox"
 
 msgctxt "Addons::description::apps"
 msgid "Let's you accept payments via Debit/Credit Card via Avanza Premier Payment Services payment gateway."
